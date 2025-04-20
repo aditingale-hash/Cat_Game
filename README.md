@@ -20,3 +20,5 @@ When near a box, a question appears.
 Type the correct answer and press Enter.
 If correct → food flies to the cat and score increases.
 Complete all questions before time runs out to unlock the next room!
+
+Deployed Link : https://aditingale-hash.github.io/Cat_Game/
